@@ -11,3 +11,6 @@ Internal system for managing projects, sprints, and tasks.
 
 ## Documentation
 See /docs folder
+git add README.md
+git commit -m "Test: checking CI pipeline"
+git push origin test/ci-test
